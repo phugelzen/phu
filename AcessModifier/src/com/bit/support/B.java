@@ -16,6 +16,8 @@ public class B extends A
 		System.out.println(x.publcVariable);
 		System.out.println(protectedVariable);
 		System.out.println("hello world");
+		System.out.println(" say hello world");
+		
 	}
 	
 	
