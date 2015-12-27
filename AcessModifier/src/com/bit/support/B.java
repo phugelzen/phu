@@ -7,14 +7,15 @@ public class B extends A
 	// inheritance and objective creation 
 	void c()// this is the inheritance way 
 	{
-		System.out.println(publcVariable);
+		
+
 	}
 	 A x = new A();// this is object creation way 
 	void abc()
 	{
 		System.out.println(x.publcVariable);
 		System.out.println(protectedVariable);
-		
+		System.out.println("hello world");
 	}
 	
 	
