@@ -9,11 +9,9 @@ public class A
 	  private int privateVariable =15;
 	  protected int protectedVariable =20;
 	 int defultvariable = 20;
+	 public void m1(int,int)
+	 {
+	 	
+	 }
 
-	
-
-	
-
-		
-
-	}
+}
